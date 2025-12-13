@@ -7,7 +7,7 @@
 - 🎓 IT Student
 - 💻 Backend Developer
 - 🔭 Currently learning **NestJS, Microservices, Docker**
-- 📫 Contact: **your-email@gmail.com**
+- 📫 Contact: **pson4282@gmail.com**
 
 ---
 
@@ -40,7 +40,7 @@
 - 🎓 IT Student
 - 💻 Backend Developer
 - 🔭 Currently learning **NestJS, Microservices, Docker**
-- 📫 Contact: **your-email@gmail.com**
+- 📫 Contact: **pson4282@gmail.com**
 
 ---
 
@@ -62,5 +62,5 @@
 ---
 
 ### 🔗 Connect with me
-- Facebook: ...
+- Facebook: https://www.facebook.com/pham.hoang.son.125025
 - LinkedIn: ...
